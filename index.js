@@ -11,7 +11,7 @@ function upperCaseCustomerName() {
 
 // Function to declare a variable called bestCustomer in global scope and assign it to 'not bob'
 function setBestCustomer() {
-  bestCustomer = 'not bob'; // Declares a global variable (not recommended but done here intentionally)
+  bestCustomer = 'not bob'; 
 }
 
 // Function to overwrite the global variable bestCustomer
